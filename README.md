@@ -17,4 +17,4 @@ Markdown
 - **One-and-Done Acquisition Trap:** Four out of five newly acquired customers never return to make a second purchase, proving that increased advertising spend is masking a leaky customer retention bucket.
 - **Long-Tail Stabilization:** Accounts that survive past month 3 exhibit steady retention plateaus (averaging 15%–20% active engagement through Month 12), indicating strong product-market fit among a dedicated minority.
 ## Visual Analysis (Cohort Retention Heatmap)
-![Cohort Retention Heatmap](HeatmapEcommerceCohortRetention.png)
+![Cohort Retention Heatmap](Heatmap Ecommerce Cohort Retention.png)
